@@ -1,1 +1,1 @@
-# EE604-garbage-classfier
+# EE604-Video-Colourization-using-Deep-Learning
